@@ -13,5 +13,5 @@ This is an example af an ASP.NET MVC application, following the tutorial of Mosh
 
 
 ### Live-Preview
-
+![Vidly ASP Screenshot](screenshot.jpg)
 Visit this link (https://vidlyasp20200117043708.azurewebsites.net/) for a live preview of the application.
