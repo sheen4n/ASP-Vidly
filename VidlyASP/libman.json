@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "bootbox.js@4.3.0",
+      "destination": "lib/bootbox.js/",
+      "files": [
+        "bootbox.min.js"
+      ]
+    }
+  ,
+{
+  "library": "datatables@1.10.19",
+  "destination": "lib/datatables/"
+}
+]
+}
