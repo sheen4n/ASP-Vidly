@@ -2,7 +2,7 @@
 
 A Project that is built using ASP.NET MVC 5.
 
-This is an example af an ASP.NET MVC application, following the tutorial of Mosh Hamedani.
+This is an example of an ASP.NET MVC application, following the tutorial of Mosh Hamedani.
 
 
 ## How to run the project
